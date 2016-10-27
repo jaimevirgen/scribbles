@@ -1,3 +1,5 @@
 let first   = 'Hello';
 let second  = 'World';
-let full    = `${first} Cruel ${last}.`;
+
+// Template Literals by using ${} inside backticks
+let full    = `${first} Cruel ${second}.`;
